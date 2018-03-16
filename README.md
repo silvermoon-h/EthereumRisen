@@ -1,4 +1,4 @@
-# EthereumRisen | documentation
+# EthereumRisen | ERC827 Token | documentation
 
 Autonomic mintable token, POI - Proof of Invest
 
@@ -24,7 +24,7 @@ Ticker symbol: ETR
 Decimal place: 18
 Total supply: 1000 billions
 Algorithm: Ethereum token on eip827 standard(supported eip20 standard)
-Contract address: 0x0
+Contract address: 0x6927C69fb4daf2043fbB1Cb7b86c5661416bea29
 ICO/TGE: none
 Price: 10000 ETR by 1 ETH (price fixed)
 Location: blockchain
@@ -168,4 +168,4 @@ ________________________________________________________________________________
 - Official site (Web site): [ethereumrisen.io]()
 - Telegram (Official channel): [telegram.com]()
 - Telegram (Official group): [telegram.com]()
-- Github (Source Code): [github.com]()
+- Github (Source Code): [github.com](https://github.com/pironmind/EthereumRisen)
