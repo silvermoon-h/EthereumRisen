@@ -1,0 +1,9 @@
+.idea/
+contract/contracts/InvestBox.sol
+contract/build/
+contract/migrations/
+contract/test/
+contract/truffle-config.js
+contract/truffle.js
+src/
+wallets/
