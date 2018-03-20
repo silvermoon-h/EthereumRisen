@@ -1,5 +1,5 @@
 .idea/
-contract/contracts/
+contract/
 contract/build/
 contract/migrations/
 contract/test/
