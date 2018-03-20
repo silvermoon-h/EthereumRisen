@@ -22,7 +22,9 @@ ________________________________________________________________________________
 Token name: Ethereum Risen
 Ticker symbol: ETR
 Decimal place: 18
-Total supply: 1000 billions
+Max supply: 1000 billions (its will be no soon)
+Max supply for generation in sales: 10 billions
+Creation supply: 150,000
 Algorithm: Ethereum token on eip827 standard(supported eip20 standard)
 Contract address: 0x6927C69fb4daf2043fbB1Cb7b86c5661416bea29
 ICO/TGE: none
@@ -55,6 +57,8 @@ Purchase more than 1 ETH counts by geometric progression, until total supply rea
 3 ETH = 30,000 ^ 3 = 90,000,           
 ..
 ```
+
+![](https://raw.githubusercontent.com/pironmind/illustrations/master/dep_graph.png)    
 
 Closed when total supply reaches 10 billions    
 ###### **! after reaches this value new tokens cant be sold via contract**
@@ -164,8 +168,8 @@ What is ERC20 and why ERC827?
 ## MEDIA RESOURCES
 ________________________________________________________________________________
 
-- Bitcointalk (Announce): [bitcointalk.org]()
-- Official site (Web site): [ethereumrisen.io]()
+- Bitcointalk (Announce): [bitcointalk.org](https://bitcointalk.org/index.php?topic=3145390)
+- Official site (Web site): [ethereumrisen.io](ethereumrisen.io)
 - Telegram (Official channel): [telegram.com]()
 - Telegram (Official group): [telegram.com]()
 - Github (Source Code): [github.com](https://github.com/pironmind/EthereumRisen)
