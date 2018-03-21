@@ -154,7 +154,9 @@ How to close invest?
 
 Where I can check the investment status?
 - Сall function "count <Time>". If returns (0) - still no completed, more then (0) - can get reward, show how much times up.
-- For get information about your invest you also could use function "count Info", which need two parameters address of holder and "bytecode" from helper.
+- For get information about your invest you also could use function "count Info", which need two parameters address of holder and "bytecode" from helper. Example from etherscan:
+
+![](https://raw.githubusercontent.com/pironmind/illustrations/master/check_invest.png)    
 
 What rules of invest box program?
 - you must be a token holders;
@@ -169,7 +171,9 @@ What is ERC20 and why ERC827?
 ________________________________________________________________________________
 
 - Bitcointalk (Announce): [bitcointalk.org](https://bitcointalk.org/index.php?topic=3145390)
-- Official site (Web site): [ethereumrisen.io](ethereumrisen.io)
-- Telegram (Official channel): [telegram.com]()
-- Telegram (Official group): [telegram.com]()
+- Official site (Web site): [ethereumrisen.io](https://ethereumrisen.io)
+- Telegram (Official channel): [telegram.com](#)
+- Telegram EN (Official group): [telegram.com](https://t.me/ethereum_risen_en)
+- Telegram RU (Official group): [telegram.com](https://t.me/ethereum_risen_ru)
 - Github (Source Code): [github.com](https://github.com/pironmind/EthereumRisen)
+- Medium (Blog): [medium.com](https://medium.com/@pironmind/crypto-investment-project-ethereum-risen-28e28f8e9b5e)
