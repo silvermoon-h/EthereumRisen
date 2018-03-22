@@ -101,7 +101,7 @@ Open the blockchain technology based business, start to make powerful products;
 ## ROADMAP
 ________________________________________________________________________________
 
-- [ ] start sells
+- [x] start sells
 - [ ] start bounty company
 - [ ] start airdrop company (if cap rise more then 5 ETH)
 - [ ] placing on exchanges (at first: hitbtc, livecoin, yobit, novaexchange, ...)
