@@ -171,7 +171,7 @@ What is ERC20 and why ERC827?
 ________________________________________________________________________________
 
 - Bitcointalk (Announce): [bitcointalk.org](https://bitcointalk.org/index.php?topic=3145390)
-- Official site (Web site): [ethereumrisen.io](https://ethereumrisen.io)
+- Official site (Web site): [ethereumrisen.io](http://ethereumrisen.io)
 - Telegram (Official channel): [telegram.com](#)
 - Telegram EN (Official group): [telegram.com](https://t.me/ethereum_risen_en)
 - Telegram RU (Official group): [telegram.com](https://t.me/ethereum_risen_ru)
