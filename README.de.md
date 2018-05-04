@@ -24,21 +24,21 @@ Preis: 10000 ETR von 1 ETH (Preis festgelegt)
 Ort: Blockchain
 VERTEILUNG
 Betriebsmittel:
-Entwicklungskosten: 100000 ETR
-Kopfgeldprogramm: 50000 ETR
-Airdrop-Programm: 9,99 Tokens * 10000 Benutzer = 99900 ETR
+Entwicklungskosten: 100000 ETR  
+Kopfgeldprogramm: 50000 ETR  
+Airdrop-Programm: 9,99 Tokens * 10000 Benutzer = 99900 ETR  
 Verteilungstokenstruktur: 150K ETR + 99,9K ETR + Verkäufe (~ 10 Milliarden ETR) + POI Interesse
 
 
 
 Verkaufsprogramm:
-10000 ETR = 1 ETH (konstant);
+10000 ETR = 1 ETH (konstant);  
 Kaufen Sie mehr als 1 ETH-Punkte nach geometrischer Progression, bis das Gesamtangebot 10 Milliarden erreicht.
 
-1 ETH = 10.000 ^ 1 = 10.000,
-2 ETH = 20.000 ^ 2 = 40.000,
+1 ETH = 10.000 ^ 1 = 10.000,  
+2 ETH = 20.000 ^ 2 = 40.000,  
 3 ETH = 30.000 ^ 3 = 90.000,
-..
+..  
 
 
 Geschlossen, wenn die Gesamtversorgung 10 Milliarden erreicht
@@ -48,9 +48,9 @@ POI-Programm:
 Prozente Profit Tabelle in Prozenten pro Tag (% / Tag)
 
 Perioden Tag Woche Monat Jahr
-1. Jahr 0.600% 0,750% 0,850% 1.000%
-2. Jahr 0,300% 0,375% 0,425% 0,500%
-3. + Jahr 0,030% 0,038% 0,043% 0,050%
+1. Jahr 0.600% 0,750% 0,850% 1.000%  
+2. Jahr 0,300% 0,375% 0,425% 0,500%  
+3. + Jahr 0,030% 0,038% 0,043% 0,050%  
 Graf Gewinn durch dieses Schema.
 
 Geschlossen, wenn die Gesamtversorgung 1000 Milliarden erreicht + Überlauf diesen Betrag für Anleger, die ihre Einlagen nicht schließen.
@@ -77,10 +77,10 @@ HELFER
 Die Bytecode-Tabelle enthält Codes für den Status Ihrer Investition
 
 Zeitraum Bytecode
-Tag 0x6461790000
-Woche 0x7765656b00
-Monat 0x6d6f6e7468
-Jahr 0x7965617200
+Tag 0x6461790000  
+Woche 0x7765656b00  
+Monat 0x6d6f6e7468  
+Jahr 0x7965617200  
 Häufig gestellte Fragen (FAQ)
 Wie kann ich den ETR bekommen?
 
