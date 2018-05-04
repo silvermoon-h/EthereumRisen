@@ -122,12 +122,12 @@ Zinszählung nur für ganze Periode (-s);
 Sie können Ihre Anlage jederzeit schließen, aber Sie können die Zinsen verlieren, wenn Sie vor Ablauf des Zeitraums zurücktreten;
 Was ist ERC20 und warum ERC827?
 
-Details zu eip20 und eip827
-MEDIENRESSOURCEN
-Bitcointalk (Anmelden): bitcointalk.org
-Offizielle Website (Website): ethereumrisen.io
-Telegramm (Offizieller Kanal): telegram.com
-Telegramm EN (Offizielle Gruppe): telegram.com
-Telegram RU (Offizielle Gruppe): telegram.com
-Github (Quellcode): github.com
-Medium (Blog): medium.com
+Details zu eip20 und eip827  
+MEDIENRESSOURCEN  
+Bitcointalk (Anmelden): bitcointalk.org  
+Offizielle Website (Website): ethereumrisen.io  
+Telegramm (Offizieller Kanal): telegram.com  
+Telegramm EN (Offizielle Gruppe): telegram.com  
+Telegram RU (Offizielle Gruppe): telegram.com  
+Github (Quellcode): github.com  
+Medium (Blog): medium.com  
