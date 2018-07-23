@@ -22,13 +22,13 @@ ________________________________________________________________________________
 Token name: Ethereum Risen
 Ticker symbol: ETR
 Decimal place: 18
-Max supply: 1000 billions (its will be no soon)
+Max supply: 1000 billions
 Max supply for generation in sales: 10 billions
 Creation supply: 150,000
-Algorithm: Ethereum token on eip827 standard(supported eip20 standard)
+Algorithm: Ethereum token on eip827 standard(full-supported eip20 standard)
 Contract address: 0x6927C69fb4daf2043fbB1Cb7b86c5661416bea29
-ICO/TGE: none
-Price: 10000 ETR by 1 ETH (price fixed)
+ICO/TGE: capitalization via sales programm read down
+Price: 100K ETR by 1 ETH
 Location: blockchain
 ```
 
@@ -172,8 +172,6 @@ ________________________________________________________________________________
 
 - Bitcointalk (Announce): [bitcointalk.org](https://bitcointalk.org/index.php?topic=3145390)
 - Official site (Web site): [ethereumrisen.io](http://ethereumrisen.io)
-- Telegram (Official channel): [telegram.com](#)
 - Telegram EN (Official group): [telegram.com](https://t.me/ethereum_risen_en)
 - Telegram RU (Official group): [telegram.com](https://t.me/ethereum_risen_ru)
 - Github (Source Code): [github.com](https://github.com/pironmind/EthereumRisen)
-- Medium (Blog): [medium.com](https://medium.com/@pironmind/crypto-investment-project-ethereum-risen-28e28f8e9b5e)
